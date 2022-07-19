@@ -396,12 +396,4 @@ alex@/tmp/sort$
 
 -   GitHub repository:  `holbertonschool-low_level_programming`
 -   Directory:  `0x1B-sorting_algorithms`
--   File:  `3-quick_sort.c, 3-O`
-
-##
-**Proudly written by:**
-- **[Yosri Ghorbel](https://github.com/YosriGFX)**
-- **[Adib Gruise](https://github.com/s0m35h1t)**
-##
-
-> Copyright © 2021 [Holberton School](https://www.holbertonschool.com). All rights reserved.
+-   File:  `3-quick_sort.c, 3-0
